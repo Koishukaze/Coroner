@@ -64,6 +64,7 @@
         <DeathGravity text="Fell off a cliff." />
         <DeathGravity text="Tested gravity." />
         <DeathGravity text="Found gravity was still turned on" />
+        <DeathGravity text="Found the downside of gravity." />
 
         <DeathBlast text="Exploded." />
         <DeathBlast text="Went out with a bang." />
@@ -73,48 +74,88 @@
         <DeathStrangulation text="Strangled to death." />
         <DeathStrangulation text="Ran out of breath... permanently." />
         <DeathStrangulation text="Silenced for good." />
+        <DeathStrangulation text="Strangled by an overenthusiastic chokehold." />
+        <DeathStrangulation text="Lost the battle of breath control." />
 
         <DeathSuffocation text="Suffocated to death." />
         <DeathSuffocation text="Air supply: terminated." />
+        <DeathSuffocation text="Forgot how to breathe" />
+        <DeathSuffocation text="Forgot that breathing is kind of important." />
+        <DeathSuffocation text="Ran out of air, and excuses." />
 
         <DeathMauling text="Mauled to death." />
         <DeathMauling text="Mangled beyond recognition." />
         <DeathMauling text="Became ripped." /> <!-- TN: A pun between being strong and being ripped apart. -->
+        <DeathMauling text="Turned into a chew toy in record time." />
+        <DeathMauling text="Discovered that some things bite harder than they bark." />
 
         <DeathGunshots text="Shot to death." />
         <DeathGunshots text="Filled to the brim with bullets." />
         <DeathGunshots text="Received a healthy dose of ammunition." />
+        <DeathGunshots text="Got shot sraight into the afterlife." />
+        <DeathGunshots text="Took lead to the chest, didn’t pass the test." />
+        <DeathGunshots text="Got a not-so-friendly reminder that bullets hurt." />
+        <DeathGunshots text="Became Swiss cheese" />
 
         <DeathCrushing text="Crushed to death." />
         <DeathCrushing text="Squished out of existence." />
+        <DeathCrushing text="Had their hopes crushed." />
+        <DeathCrushing text="Tried to become a diamond." /> <!-- TN: Diamonds are created under high pressure. -->
+        <DeathCrushing text="Had their hopes crushed." />
 
         <DeathDrowning text="Drowned to death." />
         <DeathDrowning text="Couldn't swim out of this one." />
         <DeathDrowning text="Found the titanic." />
+        <DeathDrowning text="Forgot how to swim." />
+        <DeathDrowning text="Explored the deep end, permanently." />
+        <DeathDrowning text="Sank like a rock." />
+        <DeathDrowning text="Tried breathing underwater." />
+        <DeathDrowning text="Took a dive, but evolution forgot the gills." />
+        <DeathDrowning text="Went back to the water, but evolution left you landlocked." />
 
         <DeathAbandoned text="Abandoned by their coworkers." />
         <DeathAbandoned text="Found out there's no 'I' in TEAM." />
+        <DeathAbandoned text="Found out there's an 'I' in ISOLATED." />
         <DeathAbandoned text="This one's for Karl!" /> <!-- TN: In reference to Deep Rock Galatic. -->
         <DeathAbandoned text="Abandoned to their fate." />
+        <DeathAbandoned text="Forgotten by the group." />
+        <DeathAbandoned text="Discovered that being alone isn’t as peaceful as it sounds." />
+        <DeathAbandoned text="Missed the Autopilot express." />
+        <DeathAbandoned text="Decided to stay behind and make potatoes." /> <!-- TN: In reference to the movie THe Martian. -->
+        <DeathAbandoned text="Missed the Autopilot express." />
 
         <DeathElectrocution text="Electrocuted to death." />
         <DeathElectrocution text="Died in a shocking way." />
+        <DeathElectrocution text="Went for a jolt, ended up toast." />
+        <DeathElectrocution text="Got a shocking surprise." />
+        <DeathElectrocution text="Got zapped into the afterlife." />
+        <DeathElectrocution text="Caught some high-voltage vibes." />
 
         <DeathKicking text="Kicked to death." />
         <DeathKicking text="Goal!!!" /> <!-- TN: Football/soccer. -->
         <DeathKicking text="Booted out of existence." />
+        <DeathKicking text="Caught the wrong end of a boot." />
+        <DeathKicking text="Kicked into the afterlife." />
+        <DeathKicking text="Kicked the bucket." />
 
         <DeathBurning text="Burned to death." />
-        <DeathBurning text="Became a witch." /> <!-- TN: Witches were burned. -->
         <DeathBurning text="Burned at the stake." />
+        <DeathBurning text="Flamed out in spectacular fashion." />
+        <DeathBurning text="Burned out." />
+        <DeathBurning text="Tested if fire is still hot." />
+        <DeathBurning text="Turned up the heat." />
 
         <DeathStabbing text="Stabbed to death." />
         <DeathStabbing text="Gained a few extra pockets." />
         <DeathStabbing text="Has 28 stab wounds." /> <!-- TN: In reference to detroit become human. -->
+        <DeathStabbing text="The knife life chose you." />
+        <DeathStabbing text="Knife to meet you, goodbye to know you." />
 
         <DeathFan text="Shredded by a fan." />
         <DeathFan text="Became death's biggest fan." />
         <DeathFan text="Was blown away... literally." /> <!-- TN: In reference to wind. -->
+        <DeathFan text="Caught in a fan-tastic ending." />
+        <DeathFan text="Became a fan favorite." />
 
         <DeathInertia text="Died to inertia." />
         <DeathInertia text="Discovered Newtons first law." />
@@ -124,6 +165,9 @@
         <DeathSnipped text="Snipped to death." />
         <DeathSnipped text="Cleanly severed." />
         <DeathSnipped text="Trimmed away for good." />
+        <DeathSnipped text="Got cut loose." />
+        <DeathSnipped text="Got cut out of the picture." />
+        <DeathSnipped text="Removed with a sharp, final snip." />
 
         <!-- 
             TN: Enemy Death Messages
@@ -134,30 +178,56 @@
         <DeathEnemyBracken text="Had their neck snapped by a Bracken." />
         <DeathEnemyBracken text="Stared at a Bracken too long." />
         <DeathEnemyBracken text="Failed the staring contest." />
+        <DeathEnemyBracken text="Caught by the quietest predator." />
+        <DeathEnemyBracken text="Didn’t hear the Bracken coming." />
+        <DeathEnemyBracken text="Got the silent treatment from a Bracken." />
+        <DeathEnemyBracken text="Stared down a Bracken, but it stared back harder." />
+        <DeathEnemyBracken text="Tried to keep an eye on the Bracken, but it kept all eyes on you." />
 
         <DeathEnemyEyelessDog text="Was eaten by an Eyeless Dog." />
         <DeathEnemyEyelessDog text="Got caught using a mechanical keyboard." />
         <DeathEnemyEyelessDog text="Wasn't quiet around an Eyeless Dog." />
         <DeathEnemyEyelessDog text="Forgot their mic was on." />
+        <DeathEnemyEyelessDog text="Got outmaneuvered by a dog that can’t even see you." />
+        <DeathEnemyEyelessDog text="Should've watched A Quiet Place." />
+        <DeathEnemyEyelessDog text="Made a sound, and the Eyeless Dog made it your last." />
+        <DeathEnemyEyelessDog text="Caught by a dog with perfect pitch." />
 
         <DeathEnemyForestGiantEaten text="Swallowed whole by a Forest Giant." />
         <DeathEnemyForestGiantEaten text="Made like a tree and died to a Forest Giant." /> <!-- TN: Make like a tree and leave. -->
         <DeathEnemyForestGiantEaten text="Became one with natures Giants." />
+        <DeathEnemyForestGiantEaten text="Tried to outrun a Forest Giant." />
+        <DeathEnemyForestGiantEaten text="Caught by the Giant." />
+        <DeathEnemyForestGiantEaten text="Tried to hide, but the Giant was faster and hungrier." />
+        <DeathEnemyForestGiantEaten text="Tried to hide, but the Giant was faster and hungrier." />
 
         <DeathEnemyForestGiantDeath text="Crushed under a dying Forest Giant." /> <!-- TN: Forest Giants crush nearby players as they play their death animation. -->
+        <DeathEnemyForestGiantDeath text="Went out with the Giant." />
+        <DeathEnemyForestGiantDeath text="Crushed by a Giant’s final farewell." />
+        <DeathEnemyForestGiantDeath text="Crushed under the weight of a dying Giant." />
+        <DeathEnemyForestGiantDeath text="Giant’s final act: flattening you." />
 
         <DeathEnemyCircuitBees text="Electro-stung to death by Circuit Bees." />
         <DeathEnemyCircuitBees text="Received a shocking dose of bee power." />
+        <DeathEnemyCircuitBees text="Overstepped the hive’s boundary." />
+        <DeathEnemyCircuitBees text="Got too close to the hive." />
+        <DeathEnemyCircuitBees text="Tried to outpace the bees." />
 
         <DeathEnemyGhostGirl text="Died a mysterious death." />
         <DeathEnemyGhostGirl text="Lost their mind." />
         <DeathEnemyGhostGirl text="Got a real bad headache." /> <!-- TN: The Ghost Girl causes the player's head to explode. -->
         <DeathEnemyGhostGirl text="???" />
         <DeathEnemyGhostGirl text="Crazy? I was crazy once." />
+        <DeathEnemyGhostGirl text="Lost the game of hide and seek." />
+        <DeathEnemyGhostGirl text="Became the Ghost Girls souvenir." />
+        <DeathEnemyGhostGirl text="Got found." />
 
         <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." />
         <DeathEnemyEarthLeviathan text="Became the Earth Leviathan next lunch." />
         <DeathEnemyEarthLeviathan text="Became worm food after a ground-shaking review." />
+        <DeathEnemyEarthLeviathan text="Got swallowed up by the big bad worm." />
+        <DeathEnemyEarthLeviathan text="The ground rumbled, and so did your fate." />
+        <DeathEnemyEarthLeviathan text="Tried to dance around the Sandworm." />
 
         <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." />
         <DeathEnemyBaboonHawk text="Was mauled by a Baboon Hawk." />
@@ -181,6 +251,8 @@
         <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
         <DeathEnemyHygrodere text="Got lost in the sauce." />
         <DeathEnemyHygrodere text="Had an oopsie with a Hygrodere." />
+        <DeathEnemyHygrodere text="Took their chances with the blob." />
+        <DeathEnemyHygrodere text="Thought you could dodge the slime?" />
 
         <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." />
         <DeathEnemyHoarderBug text="Was swarmed by a Hoarder Bug." />
@@ -197,6 +269,9 @@
         <DeathEnemyBunkerSpider text="Ensnared in the Bunker Spider's web." />
         <DeathEnemyBunkerSpider text="Caught in a spider’s web of doom." />
         <DeathEnemyBunkerSpider text="Got too caught up" /> <!-- TN: In reference to the spiders webs. -->
+        <DeathEnemyBunkerSpider text="Became Australia's best friend." />
+        <DeathEnemyBunkerSpider text="Tried to outmaneuver the spider." />
+        <DeathEnemyBunkerSpider text="Got tangled up in the wrong web." />
 
         <DeathEnemyThumper text="Was ravaged by a Thumper." />
         <DeathEnemyThumper text="Got thumped by a Thumper." />
