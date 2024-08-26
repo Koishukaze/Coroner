@@ -49,6 +49,19 @@
         <FunnyNote text="Master of dodging responsibility." />
         <FunnyNote text="Has a talent for being boring." />
         <FunnyNote text="Survived so well, they’re now a myth in the office." />
+        <FunnyNote text="Still thinks the floor is lava." />
+        <FunnyNote text="Probably hiding snacks in their suit." />
+        <FunnyNote text="Takes hide and seek way too seriously." />
+        <FunnyNote text="Voted ‘Most Likely to Trip Over Nothing.’" />
+        <FunnyNote text="Still convinced they’re in a video game." />
+        <FunnyNote text="Believes in ghosts, but only when alone." />
+        <FunnyNote text="Secretly believes they’re the main character." />
+        <FunnyNote text="Has a sixth sense for finding snacks." />
+        <FunnyNote text="Left their wallet behind." />
+        <FunnyNote text="Played Pong on the terminal." />
+        <FunnyNote text="Played Doom on the terminal." />
+        <FunnyNote text="Keeps a spare pair of socks for emergencies." />
+        <FunnyNote text="Keeps a lucky charm that’s anything but lucky." />
 
         <!--
             TN: Generic Death Messages
@@ -59,23 +72,37 @@
         <DeathBludgeoning text="Bludgeoned to death." />
         <DeathBludgeoning text="Reduced to a fine paste." />
         <DeathBludgeoning text="Turned into a pancake." />
+        <DeathBludgeoning text="Bludgeoned beyond repair." />
+        <DeathBludgeoning text="Got flattened in the worst way possible." />
+        <DeathBludgeoning text="Met the wrong end of a blunt object." />
 
         <DeathGravity text="Fell to their death." />
         <DeathGravity text="Fell off a cliff." />
         <DeathGravity text="Tested gravity." />
         <DeathGravity text="Found gravity was still turned on" />
         <DeathGravity text="Found the downside of gravity." />
+        <DeathGravity text="Fell for gravity’s charm." />
+        <DeathGravity text="Tried flying without wings." />
+        <DeathGravity text="Discovered that the ground is unforgiving." />
+        <DeathGravity text="Thought they could screw gravity." /> <!-- TN: In reference to asdfmovie 3 -->
 
         <DeathBlast text="Exploded." />
         <DeathBlast text="Went out with a bang." />
         <DeathBlast text="Was blown to smithereens." />
         <DeathBlast text="Had a blast and then some." />
+        <DeathBlast text="Got caught in the blast zone." />
+        <DeathBlast text="Had rapid unscheduled disassembly." />
+        <DeathBlast text="Found out that explosions are a blast." />
+        <DeathBlast text="Detonated into the afterlife." />
 
         <DeathStrangulation text="Strangled to death." />
         <DeathStrangulation text="Ran out of breath... permanently." />
         <DeathStrangulation text="Silenced for good." />
         <DeathStrangulation text="Strangled by an overenthusiastic chokehold." />
         <DeathStrangulation text="Lost the battle of breath control." />
+        <DeathStrangulation text="Choked out of existence." />
+        <DeathStrangulation text="Found out the hard way that breathing isn’t optional." />
+        <DeathStrangulation text="Choked off the life support." />
 
         <DeathSuffocation text="Suffocated to death." />
         <DeathSuffocation text="Air supply: terminated." />
@@ -95,7 +122,8 @@
         <DeathGunshots text="Got shot sraight into the afterlife." />
         <DeathGunshots text="Took lead to the chest, didn’t pass the test." />
         <DeathGunshots text="Got a not-so-friendly reminder that bullets hurt." />
-        <DeathGunshots text="Became Swiss cheese" />
+        <DeathGunshots text="Became Swiss cheese." />
+        <DeathGunshots text="Inadvertently tasted lead." />
 
         <DeathCrushing text="Crushed to death." />
         <DeathCrushing text="Squished out of existence." />
@@ -153,14 +181,17 @@
 
         <DeathFan text="Shredded by a fan." />
         <DeathFan text="Became death's biggest fan." />
-        <DeathFan text="Was blown away... literally." /> <!-- TN: In reference to wind. -->
+        <DeathFan text="Was blown away." /> <!-- TN: In reference to wind. -->
         <DeathFan text="Caught in a fan-tastic ending." />
         <DeathFan text="Became a fan favorite." />
+        <DeathFan text="Fanned out in the worst way possible." />
 
         <DeathInertia text="Died to inertia." />
         <DeathInertia text="Discovered Newtons first law." />
         <DeathInertia text="Kept going, until they didn't." />
         <DeathInertia text="Took 'going with the flow' a bit too literally." />
+        <DeathInertia text="Tried to fight inertia." />
+        <DeathInertia text="Got carried away by inertia." />
 
         <DeathSnipped text="Snipped to death." />
         <DeathSnipped text="Cleanly severed." />
@@ -221,6 +252,7 @@
         <DeathEnemyGhostGirl text="Lost the game of hide and seek." />
         <DeathEnemyGhostGirl text="Became the Ghost Girls souvenir." />
         <DeathEnemyGhostGirl text="Got found." />
+        <DeathEnemyGhostGirl text="Should've taken their pills." />
 
         <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." />
         <DeathEnemyEarthLeviathan text="Became the Earth Leviathan next lunch." />
@@ -233,31 +265,49 @@
         <DeathEnemyBaboonHawk text="Was mauled by a Baboon Hawk." />
         <DeathEnemyBaboonHawk text="Ganged up on by Baboon Hawks." />
         <DeathEnemyBaboonHawk text="Got pecked out of existence." />
+        <DeathEnemyBaboonHawk text="Taken down by a Baboon Hawk ambush." />
+        <DeathEnemyBaboonHawk text="Got mugged by a bunch of Hawks." />
 
         <DeathEnemyJester text="Mauled to death by a Jester." />
         <DeathEnemyJester text="Was the butt of the Jester's joke." />
         <DeathEnemyJester text="Got pranked by the Jester." />
         <DeathEnemyJester text="Got popped like a weasel." /> <!-- TN: "Pop Goes The Weasel" is the song used by Jack-in-the-box toys. -->
+        <DeathEnemyJester text="Outsmarted by the Jester." />
+        <DeathEnemyJester text="Got wound up by the Jester." />
 
         <DeathEnemyCoilHead text="Mauled to death by a Coil Head." />
         <DeathEnemyCoilHead text="Got in a staring contest with a Coil Head." />
         <DeathEnemyCoilHead text="Lost a staring contest with a Coil Head." />
         <DeathEnemyCoilHead text="Failed to look at the Coil Head." />
+        <DeathEnemyCoilHead text="Looked away for a second." />
+        <DeathEnemyCoilHead text="Got caught blinking." />
+        <DeathEnemyCoilHead text="Forgot the rule: never look away from the Coil Head." />
+        <DeathEnemyCoilHead text="Ignored the Coil Head." />
 
         <DeathEnemySnareFlea text="Was suffocated by a Snare Flea." />
         <DeathEnemySnareFlea text="Made their best HL1 Scientist impression." /> <!-- TN: Half-Life 1 features headcrabs. -->
         <DeathEnemySnareFlea text="Dropped on and wrapped up like a gift." />
+        <DeathEnemySnareFlea text="Got a hug by the Snare Flea" />
+        <DeathEnemySnareFlea text="Snared and suffocated." />
+        <DeathEnemySnareFlea text="Overlooked the ceiling." />
+        <DeathEnemySnareFlea text="Trapped by the Snare Flea." />
 
         <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
         <DeathEnemyHygrodere text="Got lost in the sauce." />
         <DeathEnemyHygrodere text="Had an oopsie with a Hygrodere." />
         <DeathEnemyHygrodere text="Took their chances with the blob." />
         <DeathEnemyHygrodere text="Thought you could dodge the slime?" />
+        <DeathEnemyHygrodere text="Oozed into a sticky situation." />
+        <DeathEnemyHygrodere text="Caught in the slime." />
+        <DeathEnemyHygrodere text="The slowest chase in history, and still lost." />
 
         <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." />
         <DeathEnemyHoarderBug text="Was swarmed by a Hoarder Bug." />
         <DeathEnemyHoarderBug text="Was hoarded by a Hoarder Bug." />
         <DeathEnemyHoarderBug text="Tried to steal from a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Had a really bad trade deal." />
+        <DeathEnemyHoarderBug text="Became the latest addition to the Hoarder Bug’s stash." />
+        <DeathEnemyHoarderBug text="Hoarded by the bug." />
 
         <DeathEnemyLassoMan text="Was lassoed by a Lasso Man." />
 
@@ -265,6 +315,9 @@
         <DeathEnemySporeLizard text="Was puffed by a Spore Lizard." />
         <DeathEnemySporeLizard text="Spore Lizard used Smokescreen, it was super effective!" /> <!-- TN: In reference to Pokemon. -->
         <DeathEnemySporeLizard text="Tried to poke the Lizard." />
+        <DeathEnemySporeLizard text="Thought the Spore Lizard was harmless." />
+        <DeathEnemySporeLizard text="Cornered a Spore Lizard." />
+        <DeathEnemySporeLizard text="Got caught in a spore cloud." />
 
         <DeathEnemyBunkerSpider text="Ensnared in the Bunker Spider's web." />
         <DeathEnemyBunkerSpider text="Caught in a spider’s web of doom." />
@@ -277,6 +330,12 @@
         <DeathEnemyThumper text="Got thumped by a Thumper." />
         <DeathEnemyThumper text="Thumper played tag, and you were 'it'" />
         <DeathEnemyThumper text="Tried to be speedy, but the Thumper was speedier." />
+        <DeathEnemyThumper text="Forgot to turn." />
+        <DeathEnemyThumper text="Tried to outrun a Thumper." />
+        <DeathEnemyThumper text="Thumped into oblivion." />
+        <DeathEnemyThumper text="Caught in the Thumper’s path." />
+        <DeathEnemyThumper text="Did not do the cha cha correctly." /> <!-- TN: In reference to the Cha Cha Slide Dance. -->
+
 
 
         <!-- 
@@ -472,22 +531,34 @@
         <DeathPlayerCruiserRanOver text="Got hit by the Company Cruiser." /> <!-- TN: Occurs when the Company Cruiser hits and crushes a player. -->
         <DeathPlayerCruiserRanOver text="Turned into a speed bump." />
         <DeathPlayerCruiserRanOver text="Got ran over and turned into roadkill." />
+        <DeathPlayerCruiserRanOver text="Was transported to an isekai." /> <!-- TN: Isekai is a subgenre of anime/manga  in which ordinary people are transported to a magical world, usually death by cars/trucks. -->
+        <DeathPlayerCruiserRanOver text="Thought they could get insurance money." /><!-- TN: Common insurance scam. -->
+        <DeathPlayerCruiserRanOver text="Forgot to look both ways." />
+
 
         <DeathOtherItemDropship text="Was crushed by the Item Dropship." /> <!-- TN: Used when a player stands underneath the Item Dropship and gets crushed. -->
         <DeathOtherItemDropship text="Couldn't wait for their items." />
         <DeathOtherItemDropship text="Got too impatient for their items." />
+        <DeathOtherItemDropship text="Asked for a refund." />
+        <DeathOtherItemDropship text="Got outsmarted by an inanimate object." />
+        <DeathOtherItemDropship text="Got delivered." />
+        <DeathOtherItemDropship text="Crushed by a care package." />
+        <DeathOtherItemDropship text="Dropship delivered more than you bargained for." />
+        <DeathOtherItemDropship text="Dropship pulled a Looney Tunes on you." />
 
         <DeathOtherFacilityPit text="Fell into a pit." /> <!-- TN: Used for facility-specific falling deaths. -->
         <DeathOtherFacilityPit text="Died in a pit." />
         <DeathOtherFacilityPit text="Took a leap of faith, and lost." />
         <DeathOtherFacilityPit text="Had a deep conversation with the facility’s pit." />
         <DeathOtherFacilityPit text="Found out the facility’s pit has a no-return policy." />
+        <DeathOtherFacilityPit text="Should've done a flip." />
 
         <DeathOtherSpikeTrap text="Crushed by a Spike Trap." />
         <DeathOtherSpikeTrap text="Was turned into a pancake." />
         <DeathOtherSpikeTrap text="Forgot to look up." />
         <DeathOtherSpikeTrap text="Died with an elevated twist, spikes included." />
         <DeathOtherSpikeTrap text="Became de-pressed." />
+        <DeathOtherSpikeTrap text="Didn't notice the 'gullible' on the ceiling" /> <!-- TN: Reference to asdfmovie2. -->
 
         <!--
             TN: Messages for the tentacle that kills players at the company building.
@@ -502,15 +573,23 @@
         <DeathOtherLandmine text="Thought they could disarm a landmine." />
         <DeathOtherLandmine text="Tested a landmine's patience. It was short." />
         <DeathOtherLandmine text="Mistook a landmine for a lid." />
+        <DeathOtherLandmine text="Should've gone to specsavers." /> <!-- TN: Specsavers sells glasses. -->
+        <DeathOtherLandmine text="Greeted the mineturtle." /> <!-- TN: Reference to asdfmovie5. -->
 
         <DeathOtherTurret text="Got shot by a turret." />
         <DeathOtherTurret text="Turned into turret target practice." />
         <DeathOtherTurret text="Met their end with a turret’s attention to detail." />
+        <DeathOtherTurret text="The turret doesn’t misses." />
+        <DeathOtherTurret text="Caught in the turret’s crosshairs." />
 
         <DeathOtherLightning text="Was struck by lightning." />
-        <DeathOtherLightning text="Became a lightning rod." />
+        <DeathOtherLightning text="Was a lightning rod in disguise." />
         <DeathOtherLightning text="Experienced Newton's kite experiment." />
         <DeathOtherLightning text="Went from zero to fried in one flash." />
+        <DeathOtherLightning text="Should have stayed indoors." />
+        <DeathOtherLightning text="Electrified by the sky." />
+        <DeathOtherLightning text="Caught in nature’s flash photography." />
+        <DeathOtherLightning text="Angered Thor." /> <!-- TN: Thor is the god of lightning. -->
 
         <!--
             TN: When the player clips out of the map while in the Facility.
