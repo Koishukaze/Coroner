@@ -94,6 +94,8 @@
         <DeathBlast text="Had rapid unscheduled disassembly." />
         <DeathBlast text="Found out that explosions are a blast." />
         <DeathBlast text="Detonated into the afterlife." />
+        <DeathBlast text="Learned that explosions don’t discriminate." />
+        <DeathBlast text="Left a crater where you once stood." />
 
         <DeathStrangulation text="Strangled to death." />
         <DeathStrangulation text="Ran out of breath... permanently." />
@@ -109,12 +111,16 @@
         <DeathSuffocation text="Forgot how to breathe" />
         <DeathSuffocation text="Forgot that breathing is kind of important." />
         <DeathSuffocation text="Ran out of air, and excuses." />
+        <DeathSuffocation text="Choked on nothing but bad luck." />
+        <DeathSuffocation text="Suffocated by poor life choices." />
 
         <DeathMauling text="Mauled to death." />
         <DeathMauling text="Mangled beyond recognition." />
         <DeathMauling text="Became ripped." /> <!-- TN: A pun between being strong and being ripped apart. -->
-        <DeathMauling text="Turned into a chew toy in record time." />
-        <DeathMauling text="Discovered that some things bite harder than they bark." />
+        <DeathMauling text="Experienced the definition of ‘torn limb from limb.’" />
+        <DeathMauling text="Torn apart like a paper doll." />
+        <DeathMauling text="Mauled down to the basics." />
+        <DeathMauling text="Disassembled with extreme prejudice." />
 
         <DeathGunshots text="Shot to death." />
         <DeathGunshots text="Filled to the brim with bullets." />
@@ -129,7 +135,8 @@
         <DeathCrushing text="Squished out of existence." />
         <DeathCrushing text="Had their hopes crushed." />
         <DeathCrushing text="Tried to become a diamond." /> <!-- TN: Diamonds are created under high pressure. -->
-        <DeathCrushing text="Had their hopes crushed." />
+        <DeathCrushing text="Has become 2 dimensional." />
+        <DeathCrushing text="Became paper Mario." /> <!-- TN: Paper mario is 2 dimensional. -->
 
         <DeathDrowning text="Drowned to death." />
         <DeathDrowning text="Couldn't swim out of this one." />
@@ -149,8 +156,7 @@
         <DeathAbandoned text="Forgotten by the group." />
         <DeathAbandoned text="Discovered that being alone isn’t as peaceful as it sounds." />
         <DeathAbandoned text="Missed the Autopilot express." />
-        <DeathAbandoned text="Decided to stay behind and make potatoes." /> <!-- TN: In reference to the movie THe Martian. -->
-        <DeathAbandoned text="Missed the Autopilot express." />
+        <DeathAbandoned text="Decided to stay behind and make potatoes." /> <!-- TN: In reference to the movie The Martian. -->
 
         <DeathElectrocution text="Electrocuted to death." />
         <DeathElectrocution text="Died in a shocking way." />
@@ -185,6 +191,7 @@
         <DeathFan text="Caught in a fan-tastic ending." />
         <DeathFan text="Became a fan favorite." />
         <DeathFan text="Fanned out in the worst way possible." />
+        <DeathFan text="Became the new best selling jigsaw puzzle." />
 
         <DeathInertia text="Died to inertia." />
         <DeathInertia text="Discovered Newtons first law." />
@@ -260,6 +267,7 @@
         <DeathEnemyEarthLeviathan text="Got swallowed up by the big bad worm." />
         <DeathEnemyEarthLeviathan text="The ground rumbled, and so did your fate." />
         <DeathEnemyEarthLeviathan text="Tried to dance around the Sandworm." />
+        <DeathEnemyEarthLeviathan text="Went from employee to entree in seconds." />
 
         <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." />
         <DeathEnemyBaboonHawk text="Was mauled by a Baboon Hawk." />
@@ -267,6 +275,7 @@
         <DeathEnemyBaboonHawk text="Got pecked out of existence." />
         <DeathEnemyBaboonHawk text="Taken down by a Baboon Hawk ambush." />
         <DeathEnemyBaboonHawk text="Got mugged by a bunch of Hawks." />
+        <DeathEnemyBaboonHawk text="Skewered like a kebab by Baboon Hawks." />
 
         <DeathEnemyJester text="Mauled to death by a Jester." />
         <DeathEnemyJester text="Was the butt of the Jester's joke." />
@@ -283,6 +292,7 @@
         <DeathEnemyCoilHead text="Got caught blinking." />
         <DeathEnemyCoilHead text="Forgot the rule: never look away from the Coil Head." />
         <DeathEnemyCoilHead text="Ignored the Coil Head." />
+        <DeathEnemyCoilHead text="Got sprung into action." />
 
         <DeathEnemySnareFlea text="Was suffocated by a Snare Flea." />
         <DeathEnemySnareFlea text="Made their best HL1 Scientist impression." /> <!-- TN: Half-Life 1 features headcrabs. -->
@@ -300,6 +310,7 @@
         <DeathEnemyHygrodere text="Oozed into a sticky situation." />
         <DeathEnemyHygrodere text="Caught in the slime." />
         <DeathEnemyHygrodere text="The slowest chase in history, and still lost." />
+        <DeathEnemyHygrodere text="Couldn't handle the slime time." />
 
         <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." />
         <DeathEnemyHoarderBug text="Was swarmed by a Hoarder Bug." />
@@ -308,6 +319,10 @@
         <DeathEnemyHoarderBug text="Had a really bad trade deal." />
         <DeathEnemyHoarderBug text="Became the latest addition to the Hoarder Bug’s stash." />
         <DeathEnemyHoarderBug text="Hoarded by the bug." />
+        <DeathEnemyHoarderBug text="Hoarded like a rare collectible." />
+        <DeathEnemyHoarderBug text="Found out the Hoarder Bug doesn’t like to share." />
+        <DeathEnemyHoarderBug text="Collected by the Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Hoarded and stored away for safekeeping." />
 
         <DeathEnemyLassoMan text="Was lassoed by a Lasso Man." />
 
@@ -557,7 +572,7 @@
         <DeathOtherSpikeTrap text="Was turned into a pancake." />
         <DeathOtherSpikeTrap text="Forgot to look up." />
         <DeathOtherSpikeTrap text="Died with an elevated twist, spikes included." />
-        <DeathOtherSpikeTrap text="Became de-pressed." />
+        <DeathOtherSpikeTrap text="Became de-pressed of spikes." />
         <DeathOtherSpikeTrap text="Didn't notice the 'gullible' on the ceiling" /> <!-- TN: Reference to asdfmovie2. -->
 
         <!--
