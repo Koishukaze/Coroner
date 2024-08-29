@@ -580,6 +580,10 @@
         <!-- Unknown/generic pits. -->
         <DeathPitGeneric text="Fell into a pit." />
         <DeathPitGeneric text="Should've done a flip." />
+        <DeathPitGeneric text="Took a leap of faith, and lost." />
+        <DeathPitGeneric text="Had a deep conversation with the facility’s pit." />
+        <DeathPitGeneric text="Found out the facility’s pit has a no-return policy." />
+        <DeathPitGeneric text="Saw a hole in the facility and couldn’t resist." />
 
         <!-- TN: Jumped the railing and died in the Facility layout, outside the split catwalk. -->
         <DeathPitFacilityPit text="Fell into a pit in the Facility." />
@@ -587,19 +591,36 @@
         <DeathPitFacilityPit text="Took a leap of faith, and lost." />
         <DeathPitFacilityPit text="Had a deep conversation with the facility’s pit." />
         <DeathPitFacilityPit text="Found out the facility’s pit has a no-return policy." />
+        <DeathPitFacilityPit text="Should have obeyed the railing." />
 
         <!-- TN: Died to the famous split catwalk in the Facility layout. -->
         <DeathPitFacilityCatwalkJump text="Tried to jump across the catwalk." />
         <DeathPitFacilityCatwalkJump text="Took a leap of faith, and lost." />
+        <DeathPitFacilityCatwalkJump text="Missed the jump by that much." />
+        <DeathPitFacilityCatwalkJump text="Found out the gap was wider than expected." />
+        <DeathPitFacilityCatwalkJump text="Miscalculated the jump distance." />
 
         <!-- TN: Died in the Mines by falling down the elevator shaft. -->
         <DeathPitMineElevator text="Fell down the elevator shaft." />
+        <DeathPitMineElevator text="Took a shortcut down the shaft." />
+        <DeathPitMineElevator text="Found the bottom floor." />
+        <DeathPitMineElevator text="Descended rapidly down the mine elevator shaft." />
+        <DeathPitMineElevator text="Skipped the elevator ride altogether." />
 
         <!-- TN: Jumped the railing and died in the Mines layout, outside the split catwalk. -->
         <DeathPitMinePit text="Jumped the railing and fell." />
+        <DeathPitMinePit text="Took a leap of faith, and lost." />
+        <DeathPitMinePit text="Jumped and found the bottom of the mine." />
+        <DeathPitMinePit text="Lost to the bottom of the mines." />
+        <DeathPitMinePit text="Should have obeyed the railing." />
+        <DeathPitMinePit text="Took a jump straight to the mine’s core." />
 
         <!-- TN: Fell in a hole and died in the caves in the Mines layout. -->
         <DeathPitMineCave text="Fell into a pit while spelunking." />
+        <DeathPitMineCave text="Saw a hole in the mines and couldn’t resist." />
+        <DeathPitMineCave text="Went caving found the quick exit." />
+        <DeathPitMineCave text="Missed a step met the pit." />
+        <DeathPitMineCave text="Explored deeper into the mines." />
 
         <!--
             TN: Messages for the tentacle that kills players at the company building.
