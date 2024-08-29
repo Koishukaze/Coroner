@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
     <tags>
@@ -411,7 +411,6 @@
         <DeathEnemyTulipSnakeDrop text="Tulip Snake dropped the ball… and the player." />
                 
         <DeathEnemyOldBirdRocket text="Blown up by an Old Bird." />
-        <DeathEnemyOldBirdRocket text="Woke the baby." /> <!-- TN: Old Bird makes a crying sound. -->
         <DeathEnemyOldBirdRocket text="Didn't get in the robot." /> <!-- TN: Evangelion meme -->
         <DeathEnemyOldBirdRocket text="Found out the Old Bird’s rocket wasn’t homing." />
         <DeathEnemyOldBirdRocket text="Dodged everything but the Old Bird’s rocket." />
@@ -447,6 +446,14 @@
         <DeathEnemyBarber text="Forgot to tip the Barber." />
         <DeathEnemyBarber text="The Barber's shear power proved too much." />
         <DeathEnemyBarber text="Got a haircut." />
+
+        <!--
+            TN: v60 Player Death Messages
+            Messages used for players added in v60.
+        -->
+        <DeathEnemyManeater text="Was mauled by a Maneater." />
+        <DeathEnemyManeater text="Dropped the baby." />
+        <DeathEnemyManeater text="Was a bad parent." />
 
         <!-- 
             TN: Player Death Messages
@@ -550,10 +557,10 @@
         <DeathPlayerCruiserRanOver text="Thought they could get insurance money." /><!-- TN: Common insurance scam. -->
         <DeathPlayerCruiserRanOver text="Forgot to look both ways." />
 
-
         <DeathOtherItemDropship text="Was crushed by the Item Dropship." /> <!-- TN: Used when a player stands underneath the Item Dropship and gets crushed. -->
         <DeathOtherItemDropship text="Couldn't wait for their items." />
         <DeathOtherItemDropship text="Got too impatient for their items." />
+
         <DeathOtherItemDropship text="Asked for a refund." />
         <DeathOtherItemDropship text="Got outsmarted by an inanimate object." />
         <DeathOtherItemDropship text="Got delivered." />
@@ -580,6 +587,28 @@
         <DeathOtherFacilityPit text="Had a deep conversation with the facility’s pit." />
         <DeathOtherFacilityPit text="Found out the facility’s pit has a no-return policy." />
         <DeathOtherFacilityPit text="Should've done a flip." />
+
+        <!-- TN: Died to the famous split catwalk in the Facility layout. -->
+        <DeathPitFacilityCatwalkJump text="Tried to jump across the catwalk." />
+        <DeathPitFacilityCatwalkJump text="Took a leap of faith, and lost." />
+
+        <!-- TN: Died in the Mines by falling down the elevator shaft. -->
+        <DeathPitMineElevator text="Fell down the elevator shaft." />
+
+        <!-- TN: Jumped the railing and died in the Mines layout, outside the split catwalk. -->
+        <DeathPitMinePit text="Jumped the railing and fell." />
+
+        <!-- TN: Fell in a hole and died in the caves in the Mines layout. -->
+        <DeathPitMineCave text="Fell into a pit while spelunking." />
+
+        <!-- TN: Used for falling deaths inside the facility. -->
+
+        <!-- Unknown/generic pits. -->
+        <DeathPitGeneric text="Fell into a pit." />
+
+        <!-- TN: Jumped the railing and died in the Facility layout, outside the split catwalk. -->
+        <DeathPitFacilityPit text="Fell into a pit in the Facility." />
+        <DeathPitFacilityPit text="Jumped the railing and fell." />
 
         <!-- TN: Died to the famous split catwalk in the Facility layout. -->
         <DeathPitFacilityCatwalkJump text="Tried to jump across the catwalk." />
