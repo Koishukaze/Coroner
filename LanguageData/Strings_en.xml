@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
     <tags>
@@ -579,36 +579,14 @@
 
         <!-- Unknown/generic pits. -->
         <DeathPitGeneric text="Fell into a pit." />
+        <DeathPitGeneric text="Should've done a flip." />
 
         <!-- TN: Jumped the railing and died in the Facility layout, outside the split catwalk. -->
         <DeathPitFacilityPit text="Fell into a pit in the Facility." />
         <DeathPitFacilityPit text="Jumped the railing and fell." />
-        <DeathOtherFacilityPit text="Took a leap of faith, and lost." />
-        <DeathOtherFacilityPit text="Had a deep conversation with the facility’s pit." />
-        <DeathOtherFacilityPit text="Found out the facility’s pit has a no-return policy." />
-        <DeathOtherFacilityPit text="Should've done a flip." />
-
-        <!-- TN: Died to the famous split catwalk in the Facility layout. -->
-        <DeathPitFacilityCatwalkJump text="Tried to jump across the catwalk." />
-        <DeathPitFacilityCatwalkJump text="Took a leap of faith, and lost." />
-
-        <!-- TN: Died in the Mines by falling down the elevator shaft. -->
-        <DeathPitMineElevator text="Fell down the elevator shaft." />
-
-        <!-- TN: Jumped the railing and died in the Mines layout, outside the split catwalk. -->
-        <DeathPitMinePit text="Jumped the railing and fell." />
-
-        <!-- TN: Fell in a hole and died in the caves in the Mines layout. -->
-        <DeathPitMineCave text="Fell into a pit while spelunking." />
-
-        <!-- TN: Used for falling deaths inside the facility. -->
-
-        <!-- Unknown/generic pits. -->
-        <DeathPitGeneric text="Fell into a pit." />
-
-        <!-- TN: Jumped the railing and died in the Facility layout, outside the split catwalk. -->
-        <DeathPitFacilityPit text="Fell into a pit in the Facility." />
-        <DeathPitFacilityPit text="Jumped the railing and fell." />
+        <DeathPitFacilityPit text="Took a leap of faith, and lost." />
+        <DeathPitFacilityPit text="Had a deep conversation with the facility’s pit." />
+        <DeathPitFacilityPit text="Found out the facility’s pit has a no-return policy." />
 
         <!-- TN: Died to the famous split catwalk in the Facility layout. -->
         <DeathPitFacilityCatwalkJump text="Tried to jump across the catwalk." />
