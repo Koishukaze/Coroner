@@ -85,6 +85,8 @@
         <DeathGravity text="Tried flying without wings." />
         <DeathGravity text="Discovered that the ground is unforgiving." />
         <DeathGravity text="Thought they could screw gravity." /> <!-- TN: In reference to asdfmovie 3 -->
+        <DeathGravity text="Gravity claimed another victim." />
+        <DeathGravity text="Discovered the ground the hard way." />
 
         <DeathBlast text="Exploded." />
         <DeathBlast text="Went out with a bang." />
@@ -96,6 +98,7 @@
         <DeathBlast text="Detonated into the afterlife." />
         <DeathBlast text="Learned that explosions don’t discriminate." />
         <DeathBlast text="Left a crater where you once stood." />
+        <DeathBlast text="Blown to bits." />
 
         <DeathStrangulation text="Strangled to death." />
         <DeathStrangulation text="Ran out of breath... permanently." />
@@ -147,6 +150,7 @@
         <DeathDrowning text="Tried breathing underwater." />
         <DeathDrowning text="Took a dive, but evolution forgot the gills." />
         <DeathDrowning text="Went back to the water, but evolution left you landlocked." />
+        <DeathDrowning text="Didn’t come up for air." />
 
         <DeathAbandoned text="Abandoned by their coworkers." />
         <DeathAbandoned text="Found out there's no 'I' in TEAM." />
@@ -260,6 +264,7 @@
         <DeathEnemyGhostGirl text="Became the Ghost Girls souvenir." />
         <DeathEnemyGhostGirl text="Got found." />
         <DeathEnemyGhostGirl text="Should've taken their pills." />
+        <DeathEnemyGhostGirl text="Got Ghosted." />
 
         <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." />
         <DeathEnemyEarthLeviathan text="Became the Earth Leviathan next lunch." />
@@ -340,6 +345,7 @@
         <DeathEnemyBunkerSpider text="Became Australia's best friend." />
         <DeathEnemyBunkerSpider text="Tried to outmaneuver the spider." />
         <DeathEnemyBunkerSpider text="Got tangled up in the wrong web." />
+        <DeathEnemyBunkerSpider text="Killed by a Giant Enemy Spider." /> <!-- TN: A meme/song by Fluxoid. -->
 
         <DeathEnemyThumper text="Was ravaged by a Thumper." />
         <DeathEnemyThumper text="Got thumped by a Thumper." />
@@ -454,6 +460,9 @@
         <DeathEnemyManeater text="Was mauled by a Maneater." />
         <DeathEnemyManeater text="Dropped the baby." />
         <DeathEnemyManeater text="Was a bad parent." />
+        <DeathEnemyManeater text="Learned that cuteness can kill." />
+        <DeathEnemyManeater text="Didn't babysit the baby." />
+        <DeathEnemyManeater text="Mistook the Maneater for a pet." />
 
         <!-- 
             TN: Player Death Messages
@@ -525,7 +534,8 @@
         <DeathPlayerStunGrenade text="Held a Stun Grenade for too long." /> <!-- TN: Yes, the stun grenade can do damage, but only if you're holding it when it goes off. -->
         <DeathPlayerStunGrenade text="Was absolutely stunning." />
         <DeathPlayerStunGrenade text="Cooked a little too long." /> <!-- TN: Reference to "cooking" grenades. -->
-        <DeathPlayerStunGrenade text="Forgot to throw a Stun Grenade" />
+        <DeathPlayerStunGrenade text="Forgot to throw a Stun Grenade." />
+        <DeathPlayerStunGrenade text="Had seperation anxiety with a Stun Grenade." />
 
         <DeathPlayerEasterEgg text="Got blown up by an Easter Egg." />
         <DeathPlayerEasterEgg text="Had an Easter Egg thrown at them." />
@@ -643,6 +653,8 @@
         <DeathOtherTurret text="Met their end with a turret’s attention to detail." />
         <DeathOtherTurret text="The turret doesn’t misses." />
         <DeathOtherTurret text="Caught in the turret’s crosshairs." />
+        <DeathOtherTurret text="Mistook a turret for a lamp." />
+        <DeathOtherTurret text="Thought they could outsmart a turret." />
 
         <DeathOtherLightning text="Was struck by lightning." />
         <DeathOtherLightning text="Was a lightning rod in disguise." />
