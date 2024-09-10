@@ -1,13 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
     <tags>
-        <tag language="en" />
+        <tag language="en-us" />
     </tags>
     <strings>
         <!--
+            English (American) v4
+            (en-us)
+
             Translation Notes:
-            This is the default localization file for Coroner.
+            *This is the default localization file for Coroner. 
+            *Please ensure that the correct version is noted above in translations, to help future translators.
+            *Don't forget to update TRANSLATING.md with your translation's information!
+            *Remove these lines marked with an asterisk when not in the English (American) file.
             
             By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
             If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
