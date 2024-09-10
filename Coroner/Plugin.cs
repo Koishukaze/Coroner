@@ -16,7 +16,7 @@ namespace Coroner
         public const string PLUGIN_ID = "Coroner";
         public const string PLUGIN_NAME = "Coroner";
         public const string PLUGIN_AUTHOR = "EliteMasterEric";
-        public const string PLUGIN_VERSION = "2.1.0";
+        public const string PLUGIN_VERSION = "2.2.0";
         public const string PLUGIN_GUID = "com.elitemastereric.coroner";
     }
 
@@ -35,8 +35,8 @@ namespace Coroner
 
         internal PluginConfig PluginConfig;
 
-        internal LanguageHandler LanguageHandler; // Uses player selected language, default to English
-        internal LanguageHandler FallbackLanguageHandler; // Always uses English
+        internal LanguageHandler LanguageHandler; // Uses player selected language, default to English (American)
+        internal LanguageHandler FallbackLanguageHandler; // Always uses English (American)
         #nullable enable
 
         public static string AssemblyDirectory

@@ -11,7 +11,7 @@ namespace Coroner
 {
     class LanguageHandler
     {
-        public const string DEFAULT_LANGUAGE = "en";
+        public const string DEFAULT_LANGUAGE = "en-us";
 
         public const string TAG_FUNNY_NOTES = "FunnyNote";
 
@@ -114,6 +114,7 @@ namespace Coroner
         public const string TAG_DEATH_OTHER_LANDMINE = "DeathOtherLandmine";
         public const string TAG_DEATH_OTHER_TURRET = "DeathOtherTurret";
         public const string TAG_DEATH_OTHER_LIGHTNING = "DeathOtherLightning";
+        public const string TAG_DEATH_OTHER_METEOR = "DeathOtherMeteor";
         public const string TAG_DEATH_OTHER_SPIKE_TRAP = "DeathOtherSpikeTrap";
         public const string TAG_DEATH_OTHER_OUT_OF_BOUNDS = "DeathOtherOutOfBounds";
 
