@@ -565,7 +565,7 @@
 
         <DeathPlayerCruiserExplodeBystander text="Got blown up by the Company Cruiser." /> <!-- TN: Occurs when near (but not seated in) the car as it explodes. -->
         <DeathPlayerCruiserExplodeBystander text="Turned into collateral damage from a car explosion." />
-        <DeathPlayerCruiserExplodeBystander text="Found out the hard way that being a bystander has its risks." />
+        <DeathPlayerCruiserExplodeBystander text="Found out that being a bystander has its risks." />
 
         <DeathPlayerCruiserRanOver text="Got hit by the Company Cruiser." /> <!-- TN: Occurs when the Company Cruiser hits and crushes a player. -->
         <DeathPlayerCruiserRanOver text="Turned into a speed bump." />
@@ -577,7 +577,7 @@
         <DeathOtherItemDropship text="Was crushed by the Item Dropship." /> <!-- TN: Used when a player stands underneath the Item Dropship and gets crushed. -->
         <DeathOtherItemDropship text="Couldn't wait for their items." />
         <DeathOtherItemDropship text="Got too impatient for their items." />
-    <DeathOtherItemDropship text="Asked for a refund." />
+        <DeathOtherItemDropship text="Asked for a refund." />
         <DeathOtherItemDropship text="Got outsmarted by an inanimate object." />
         <DeathOtherItemDropship text="Got delivered." />
         <DeathOtherItemDropship text="Crushed by a care package." />
@@ -675,6 +675,15 @@
         <DeathOtherMeteor text="Was struck by a meteor." />
         <DeathOtherMeteor text="Found out what it's like to be a dinosaur." /> <!-- TN: Referencing the meteor that ended the Cretaceous period -->
         <DeathOtherMeteor text="Died debating whether it's a meteor or a meteorite." />
+        <DeathOtherMeteor text="Got hit by a Metewah." /> <!-- TN: Referencing CodeRebirth's meteor shower weather -->
+        <DeathOtherMeteor text="Found out rocks can be really big." />
+        <DeathOtherMeteor text="Didn't bring an umbrella." />
+        <DeathOtherMeteor text="Wished upon a star." />
+        <DeathOtherMeteor text="Surprise delivery from outer space." />
+        <DeathOtherMeteor text="Discovered matching three of the same color ignites them." /> <!-- TN: A really old reference to Meteos (the DS game) -->
+        <DeathOtherMeteor text="Was struck by a meatball." />
+        <DeathOtherMeteor text="Played catch with a meteor." />
+        <DeathOtherMeteor text="Became a 7-10 split." />
 
         <!--
             TN: When the player clips out of the map while in the Facility.
