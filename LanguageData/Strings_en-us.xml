@@ -1,4 +1,5 @@
-﻿<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
     <tags>
         <tag language="en-us" />
@@ -106,7 +107,7 @@
         <DeathBlast text="Blown to bits." />
 
         <DeathStrangulation text="Strangled to death." />
-        <DeathStrangulation text="Ran out of breath... permanently." />
+        <DeathStrangulation text="Ran out of breath." />
         <DeathStrangulation text="Silenced for good." />
         <DeathStrangulation text="Strangled by an overenthusiastic chokehold." />
         <DeathStrangulation text="Lost the battle of breath control." />
@@ -246,7 +247,6 @@
         <DeathEnemyForestGiantEaten text="Tried to outrun a Forest Giant." />
         <DeathEnemyForestGiantEaten text="Caught by the Giant." />
         <DeathEnemyForestGiantEaten text="Tried to hide, but the Giant was faster and hungrier." />
-        <DeathEnemyForestGiantEaten text="Tried to hide, but the Giant was faster and hungrier." />
 
         <DeathEnemyForestGiantDeath text="Crushed under a dying Forest Giant." /> <!-- TN: Forest Giants crush nearby players as they play their death animation. -->
         <DeathEnemyForestGiantDeath text="Went out with the Giant." />
@@ -263,6 +263,7 @@
         <DeathEnemyGhostGirl text="Died a mysterious death." />
         <DeathEnemyGhostGirl text="Lost their mind." />
         <DeathEnemyGhostGirl text="Got a real bad headache." /> <!-- TN: The Ghost Girl causes the player's head to explode. -->
+        <DeathEnemyGhostGirl text="Their head just... did that on its own... we think." />
         <DeathEnemyGhostGirl text="???" />
         <DeathEnemyGhostGirl text="Crazy? I was crazy once." />
         <DeathEnemyGhostGirl text="Lost the game of hide and seek." />
@@ -311,6 +312,7 @@
         <DeathEnemySnareFlea text="Snared and suffocated." />
         <DeathEnemySnareFlea text="Overlooked the ceiling." />
         <DeathEnemySnareFlea text="Trapped by the Snare Flea." />
+
 
         <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
         <DeathEnemyHygrodere text="Got lost in the sauce." />
@@ -362,8 +364,6 @@
         <DeathEnemyThumper text="Caught in the Thumper’s path." />
         <DeathEnemyThumper text="Did not do the cha cha correctly." /> <!-- TN: In reference to the Cha Cha Slide Dance. -->
 
-
-
         <!-- 
             TN: v45 Enemy Death Messages
             Messages used for enemies added in v45.
@@ -408,41 +408,43 @@
         <DeathEnemyButlerStab text="Got too close to the Butler." />
         <DeathEnemyButlerStab text="Shouldn't have asked Jeeves." /> <!-- TN: AskJeeves -->
         <DeathEnemyButlerStab text="Butler served up a deadly slice." />
-        
+
         <DeathEnemyButlerExplode text="Blown up by the Butler." />
         <DeathEnemyButlerExplode text="Handled the Butler, then handled by the explosion." />
-        
+
         <DeathEnemyMaskHornets text="Stung to death by Mask Hornets." /> <!-- TN: Spawned when the Butler dies. -->
         <DeathEnemyMaskHornets text="Butler’s revenge: a swarm of angry hornets." />
         <DeathEnemyMaskHornets text="Found out bosses always have a second phase." />
         <DeathEnemyMaskHornets text="Butler’s gone, but the hornets weren’t happy." />
-        
+
         <DeathEnemyTulipSnakeDrop text="Dropped by a Tulip Snake." /> <!-- TN: When the player dies of fall damage due to a Tulip Snake. -->
         <DeathEnemyTulipSnakeDrop text="Caught a ride, missed the landing." />
         <DeathEnemyTulipSnakeDrop text="Tulip Snake dropped the ball… and the player." />
-                
+
         <DeathEnemyOldBirdRocket text="Blown up by an Old Bird." />
         <DeathEnemyOldBirdRocket text="Didn't get in the robot." /> <!-- TN: Evangelion meme -->
         <DeathEnemyOldBirdRocket text="Found out the Old Bird’s rocket wasn’t homing." />
         <DeathEnemyOldBirdRocket text="Dodged everything but the Old Bird’s rocket." />
         <DeathEnemyOldBirdRocket text="Tried to outrun a rocket." />
-        
+
+
         <DeathEnemyOldBirdStomp text="Stomped by an Old Bird." />
         <DeathEnemyOldBirdStomp text="Got their butt kicked by the robot." />
         <DeathEnemyOldBirdStomp text="Got in the way of the Old Bird." />
         <DeathEnemyOldBirdStomp text="Tried to outrun the Old Bird." />
         <DeathEnemyOldBirdStomp text="Squashed like a bug" />
         
+        
         <DeathEnemyOldBirdCharge text="Got too close to a charging Old Bird." />
         <DeathEnemyOldBirdCharge text="Found out why Embrion is condemned." /> <!-- TN: See Old Bird Bestiary entry. -->
         <DeathEnemyOldBirdCharge text="Tried to stand their ground, Old Bird had other plans." />
-        
+
         <DeathEnemyOldBirdTorch text="Got torched by an Old Bird." />
         <DeathEnemyOldBirdTorch text="Got flambéed by an Old Bird." /> <!-- TN: Flambée: To douse with a liquor and ignite. -->
         <DeathEnemyOldBirdTorch text="Became finger lickin' good." /> <!-- TN: KFC's slogan. -->
         <DeathEnemyOldBirdTorch text="Got cooked by the Old Bird." />
         <DeathEnemyOldBirdTorch text="Thought they could handle the heat." />
-        
+
         <!-- 
             TN: v55 Enemy Death Messages
             Messages used for enemies added in v55.
@@ -497,8 +499,8 @@
         <DeathPlayerMurderStopSign text="Got murdered." />
         <DeathPlayerMurderStopSign text="Got beaten to death by a coworker." />
         <DeathPlayerMurderStopSign text="Was forced to stop by a coworker." />
-        <DeathPlayerMurderStopSign text="Budgeoned by eight fantastic sides." /> <!-- TN: Jack Black's Octagon -->
-        <DeathPlayerMurderStopSign text="Budgeoned by eight awesome angles." /> <!-- TN: Jack Black's Octagon -->
+        <DeathPlayerMurderStopSign text="Bludgeoned by eight fantastic sides." /> <!-- TN: Jack Black's Octagon -->
+        <DeathPlayerMurderStopSign text="Bludgeoned by eight awesome angles." /> <!-- TN: Jack Black's Octagon -->
 
         <DeathPlayerMurderYieldSign text="Was beaten with a Yield Sign by a coworker." /> <!-- TN: Used when a player kills another player with a stop/yield sign. -->
         <DeathPlayerMurderYieldSign text="Was the victim of a murder." />
@@ -528,6 +530,7 @@
         <DeathPlayerLadder text="Found out the hard way that ladders aren't just for climbing." />
         <DeathPlayerLadder text="Fell under the corporate ladder." />
 
+
         <DeathPlayerQuicksand text="Got stuck in quicksand." />
         <DeathPlayerQuicksand text="Drowned in quicksand." />
         <DeathPlayerQuicksand text="Became one with the earth." />
@@ -556,7 +559,6 @@
         <DeathPlayerCruiserDriver text="Went over the speed limit." />
         <DeathPlayerCruiserDriver text="Drove while in park." /> <!-- TN: Driving in park for too long explodes the cruiser. -->
 
-
         <DeathPlayerCruiserPassenger text="Got blown up by the Company Cruiser." /> <!-- TN: Occurs on explosion or severe impacts while in the passenger seat. -->
         <DeathPlayerCruiserPassenger text="Had a front-row seat to a high-speed disaster." />
         <DeathPlayerCruiserPassenger text="Rode shotgun on the expressway to doom." />
@@ -575,8 +577,7 @@
         <DeathOtherItemDropship text="Was crushed by the Item Dropship." /> <!-- TN: Used when a player stands underneath the Item Dropship and gets crushed. -->
         <DeathOtherItemDropship text="Couldn't wait for their items." />
         <DeathOtherItemDropship text="Got too impatient for their items." />
-
-        <DeathOtherItemDropship text="Asked for a refund." />
+    <DeathOtherItemDropship text="Asked for a refund." />
         <DeathOtherItemDropship text="Got outsmarted by an inanimate object." />
         <DeathOtherItemDropship text="Got delivered." />
         <DeathOtherItemDropship text="Crushed by a care package." />
@@ -631,6 +632,7 @@
         <DeathPitMinePit text="Took a jump straight to the mine’s core." />
 
         <!-- TN: Fell in a hole and died in the caves in the Mines layout. -->
+        <DeathPitMineCave text="Fell into a pit in the caves." />
         <DeathPitMineCave text="Fell into a pit while spelunking." />
         <DeathPitMineCave text="Saw a hole in the mines and couldn’t resist." />
         <DeathPitMineCave text="Went caving found the quick exit." />
@@ -669,6 +671,10 @@
         <DeathOtherLightning text="Electrified by the sky." />
         <DeathOtherLightning text="Caught in nature’s flash photography." />
         <DeathOtherLightning text="Angered Thor." /> <!-- TN: Thor is the god of lightning. -->
+
+        <DeathOtherMeteor text="Was struck by a meteor." />
+        <DeathOtherMeteor text="Found out what it's like to be a dinosaur." /> <!-- TN: Referencing the meteor that ended the Cretaceous period -->
+        <DeathOtherMeteor text="Died debating whether it's a meteor or a meteorite." />
 
         <!--
             TN: When the player clips out of the map while in the Facility.
