@@ -68,6 +68,9 @@
         <FunnyNote text="Played Doom on the terminal." />
         <FunnyNote text="Keeps a spare pair of socks for emergencies." />
         <FunnyNote text="Keeps a lucky charm that’s anything but lucky." />
+        <FunnyNote text="Avoided death." />
+        <FunnyNote text="Considered doing something." />
+        <FunnyNote text="Believes they’re conserving energy for something important." />
 
         <!--
             TN: Generic Death Messages
@@ -81,6 +84,7 @@
         <DeathBludgeoning text="Bludgeoned beyond repair." />
         <DeathBludgeoning text="Got flattened in the worst way possible." />
         <DeathBludgeoning text="Met the wrong end of a blunt object." />
+        <DeathBludgeoning text="Became one with the floor." />
 
         <DeathGravity text="Fell to their death." />
         <DeathGravity text="Fell off a cliff." />
@@ -93,6 +97,8 @@
         <DeathGravity text="Thought they could screw gravity." /> <!-- TN: In reference to asdfmovie 3 -->
         <DeathGravity text="Gravity claimed another victim." />
         <DeathGravity text="Discovered the ground the hard way." />
+        <DeathGravity text="Missed the memo that wings are not included." />
+        <DeathGravity text="Forgot the haystack." /> <!-- TN: Assasins creed -->
 
         <DeathBlast text="Exploded." />
         <DeathBlast text="Went out with a bang." />
@@ -130,6 +136,9 @@
         <DeathMauling text="Torn apart like a paper doll." />
         <DeathMauling text="Mauled down to the basics." />
         <DeathMauling text="Disassembled with extreme prejudice." />
+        <DeathMauling text="Disassembled with more enthusiasm than skill." />
+        <DeathMauling text="Now available in bite-sized pieces!" />
+        <DeathMauling text="Officially unrecognizable!" />
 
         <DeathGunshots text="Shot to death." />
         <DeathGunshots text="Filled to the brim with bullets." />
@@ -139,6 +148,7 @@
         <DeathGunshots text="Got a not-so-friendly reminder that bullets hurt." />
         <DeathGunshots text="Became Swiss cheese." />
         <DeathGunshots text="Inadvertently tasted lead." />
+        <DeathGunshots text="Forgot to Neo." /> <!-- TN: The Matrix. -->
 
         <DeathCrushing text="Crushed to death." />
         <DeathCrushing text="Squished out of existence." />
@@ -157,6 +167,7 @@
         <DeathDrowning text="Took a dive, but evolution forgot the gills." />
         <DeathDrowning text="Went back to the water, but evolution left you landlocked." />
         <DeathDrowning text="Didn’t come up for air." />
+        <DeathDrowning text="Swam like a stone." />
 
         <DeathAbandoned text="Abandoned by their coworkers." />
         <DeathAbandoned text="Found out there's no 'I' in TEAM." />
@@ -194,6 +205,7 @@
         <DeathStabbing text="Has 28 stab wounds." /> <!-- TN: In reference to detroit become human. -->
         <DeathStabbing text="The knife life chose you." />
         <DeathStabbing text="Knife to meet you, goodbye to know you." />
+        <DeathStabbing text="Stabbed in the back like Julius Caesar." />
 
         <DeathFan text="Shredded by a fan." />
         <DeathFan text="Became death's biggest fan." />
@@ -202,6 +214,7 @@
         <DeathFan text="Became a fan favorite." />
         <DeathFan text="Fanned out in the worst way possible." />
         <DeathFan text="Became the new best selling jigsaw puzzle." />
+        <DeathFan text="Became fanservice." />
 
         <DeathInertia text="Died to inertia." />
         <DeathInertia text="Discovered Newtons first law." />
@@ -652,8 +665,9 @@
         <DeathOtherLandmine text="Thought they could disarm a landmine." />
         <DeathOtherLandmine text="Tested a landmine's patience. It was short." />
         <DeathOtherLandmine text="Mistook a landmine for a lid." />
-        <DeathOtherLandmine text="Should've gone to specsavers." /> <!-- TN: Specsavers sells glasses. -->
+        <DeathOtherLandmine text="Should've gone to specsavers." /> <!-- TN: Specsavers sells glasses (the mine can be misidentified as a trash lid). -->
         <DeathOtherLandmine text="Greeted the mineturtle." /> <!-- TN: Reference to asdfmovie5. -->
+        <DeathOtherLandmine text="Became confetti without the celebration." />
 
         <DeathOtherTurret text="Got shot by a turret." />
         <DeathOtherTurret text="Turned into turret target practice." />
